@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-3-спр-должность-e",
+  "editForm": "i-i-s-kursovaya-rabota-3-спр-должность-e",
+  "external": false,
+  "caption": "Справочник должность",
+  "name": "IISKursovaya_rabota_3СпрДолжностьL",
+  "className": "СпрДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-должность",
+      "modelProjection": "СпрДолжностьL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Справочник преподаватели",
+  "name": "IISKursovaya_rabota_3СпрПреподE",
+  "className": "СпрПреподE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-препод",
+      "modelProjection": "СпрПреподE"
+    }
+  ]
+}

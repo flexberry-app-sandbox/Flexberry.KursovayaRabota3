@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISKursovaya_rabota_3СпрПрепод",
+  "modelName": "i-i-s-kursovaya-rabota-3-спр-препод",
+  "className": "СпрПрепод",
+  "nameSpace": "IIS.Kursovaya_rabota_3",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "фио",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СпрПреподE",
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-препод",
+      "attrs": [
+        {
+          "name": "фио",
+          "caption": "Фио преподавателя",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СпрПреподL",
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-препод",
+      "attrs": [
+        {
+          "name": "фио",
+          "caption": "Фио преподавателя",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISKursovaya_rabota_3СпрДолжность",
+  "modelName": "i-i-s-kursovaya-rabota-3-спр-должность",
+  "className": "СпрДолжность",
+  "nameSpace": "IIS.Kursovaya_rabota_3",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "наименование",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СпрДолжностьE",
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-должность",
+      "attrs": [
+        {
+          "name": "наименование",
+          "caption": "Должность",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СпрДолжностьL",
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-должность",
+      "attrs": [
+        {
+          "name": "наименование",
+          "caption": "Должность",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

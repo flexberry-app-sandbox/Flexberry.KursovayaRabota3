@@ -1,0 +1,43 @@
+﻿{
+  "applicationCaption": "Kursovaya_rabota_3",
+  "applicationTitle": "Kursovaya_rabota_3",
+  "items": [
+    {
+      "link": null,
+      "menuName": "интеграция-сайта-д-о-и-библиотеки",
+      "caption": "Интеграция Сайта ДО и Библиотеки",
+      "title": "Интеграция Сайта ДО и Библиотеки",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-3-спр-препод-l",
+          "menuName": null,
+          "caption": "Справочник преподаватели",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-3-спр-должность-l",
+          "menuName": null,
+          "caption": "Справочник должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-3-спр-дисциплина-l",
+          "menuName": null,
+          "caption": "Справочник дисциплина",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-3-спр-студ-l",
+          "menuName": null,
+          "caption": "Справочник студенты",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

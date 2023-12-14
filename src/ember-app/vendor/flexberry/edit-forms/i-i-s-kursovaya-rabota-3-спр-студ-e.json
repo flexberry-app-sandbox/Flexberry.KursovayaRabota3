@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Справочник студенты",
+  "name": "IISKursovaya_rabota_3СпрСтудE",
+  "className": "СпрСтудE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-3-спр-студ",
+      "modelProjection": "СпрСтудE"
+    }
+  ]
+}
